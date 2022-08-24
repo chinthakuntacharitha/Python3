@@ -1,3 +1,3 @@
-print(20 * 30 * 40)
+print(100*5*5)
 
-print(f"20 days are {20*24*60} minutes")
+print(f"bourniville has (15*8*4)pieces")

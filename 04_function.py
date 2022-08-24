@@ -1,12 +1,12 @@
-calculate_to_units = 24 * 60 * 60
-name_of_unit = "seconds"
+calculate_to_units = 15*6*20
+name_of_unit = "chocoltes"
 
 
-def days_to_units(num_of_days):
-    print(f"{num_of_days} days are {num_of_days * calculate_to_units} {name_of_unit}")
+def days_to_units(num_of_pieces):
+    print(f"{num_of_pieces} days are {num_of_pieces * calculate_to_units} {name_of_unit}")
 
 
-days_to_units(20)
-days_to_units(30)
-days_to_units(45)
-days_to_units(110)
+days_to_units(2)
+days_to_units(3)
+days_to_units(4)
+days_to_units(11)

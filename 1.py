@@ -1,5 +1,5 @@
 # Print string
-print("hello")
+print("bournville")
 
-# print Number
-print(3)
+# print number
+print(100)
